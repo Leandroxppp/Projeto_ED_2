@@ -231,7 +231,7 @@ int main() {
     setlocale(LC_ALL, "");
     fwide(stdout, 1);
     
-    Aluno aluno = {.nome = L"João Victor Duarte do Nascimento"};
+    Aluno aluno = {.nome = L"Leandro Marcio Elias Da Silva"};
 
     int resto[MAXR]; 
 
